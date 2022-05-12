@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+:root{
+    --color-dark:#1b1b1b;
+    --color-light:#ffff;
+    --color-titulo:#c7b8a5;
+}
+
+body{
+    font-family:'Oswald';
+    font-weight: 200;
+    background-color: var(--color-dark);
+    color: var(--color-light);
+    letter-spacing: 0.5rem;
+}
